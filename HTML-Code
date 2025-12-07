@@ -1,0 +1,145 @@
+<html>
+
+<head>
+    <title>BitMarket</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript"
+        src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=_cwrGsEFLXxD3d9_XU7_sw1JChmtI-m_YS4C_5obj8p82IECy7-RVmS7rXLGC0OysnM9aEDcWVnW6XzSjOkVpg"
+        charset="UTF-8"></script>
+    <link rel="stylesheet" crossorigin="anonymous"
+        href="https://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9uYWR2aWxib2EuZ2l0aHViLmlvLzctNC0xLw" />
+</head>
+
+<body>
+    <header>
+        <img class="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNH4nwm8sWPKN8n9FGWaZt2LGiLBCgVboWAw&s">
+        <a class="button" href="">Знижки</a>
+    </header>
+    <nav>
+        <a class="nav-link" href="">Акорди</a>
+        <a class="nav-link" href="">Слова</a>
+        <a class="nav-link" href="">Виконавці</a>
+        <a class="nav-link" href="">Пісні</a>
+    </nav>
+    <main>
+        <h1>Струнні інструменти</h1>
+        <section class="info">
+            <article class="post">
+                <h2>Гітара</h2>
+                <img class="post-img" src="https://web.posibnyky.vntu.edu.ua/icgn/2sidlecka_praktychna_kulturologiya_ch1/img/img5.png" width="400px" height="300px"/>
+                <img class="img-hit" src="https://lms.logikaschool.com/uploads/2023/08/hit_0_1615887292.png" width="150px" height="80px"/>
+                <p class="post-text">Alfabetto-v12</p>
+                <a class="article-but" href="">Детальніше</a>
+            </article>
+            <article class="post">
+                <h2>Скрипка</h2>
+                <img class="post-img" src="https://музыкалка-онлайн.рф/storage/userFiles/1/5/0.80261700%201644276019.jpeg" width="330px" height="300px"/>
+                <p class="post-text">Arco prima-3</p>
+                <a class="article-but" href="">Детальніше</a>
+            </article>
+            <article class="post">
+                <h2>Контрабас</h2>
+                <img class="post-img" src="https://rockstar.com.ua/image/cache/catalog/image/cache/catalog/img_tovar/2/616224753-stentor-stentor-1951-c-student-double-bass-3-4-kontrabas-sn-800x800.webp" width="400px" height="300px"/>
+                <p class="post-text">Ardesto AE5</p>
+                <a class="article-but" href="">Детальніше</a>
+            </article>
+            <article class="post">
+                <h2>Укулеле</h2>
+                <img class="post-img" src="https://guitarhouse.com.ua/content/images/33/500x500l50nn0/ukulele-alfabeto-colored-mahogany-cm23eq-yellow-58862218859409.jpg" width="400px" height="300px"/>
+                <p class="post-text">Vindi Classic</p>
+                <a class="article-but" href="">Детальніше</a>
+            </article>
+        </section>
+        <aside>
+            <p class="aside-text"><b>Напиши - отримай промокод!</b></p>
+            <a class="social"
+                href=""><img src="https://lms.logikaschool.com/uploads/2023/08/icon-set-1142000_1280%201_0_1613586391.png" width="50px" height="50px"></a>
+            <a class="social"
+                href=""><img src="https://lms.logikaschool.com/uploads/2023/08/instagram-3288419_1280%201_0_1613586391.png" width="50px" height="50px"></a>
+        </aside>
+        <img class="full-image" src="https://erspattensen.de/wp-content/uploads/2023/03/1.-Bild-FB-Musik-1024x683.jpg" width="100%" min-height="200" />
+    </main>
+    <footer>
+        <div class="contacts">
+            <p class="footer-text"><span class="address">Адреса:</span> місто Технологічне,<br/> пр-д Сучасний, 29/2</p>
+            <p class="footer-text"><span class="tel">Телефон:</span> 4138-564</p>
+        </div>
+        <div class="footer-logo">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNH4nwm8sWPKN8n9FGWaZt2LGiLBCgVboWAw&s"/>
+        </div>
+    </footer>
+</body>
+
+</html>
+<html>
+
+<head>
+    <title>BitMarket</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript"
+        src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=_cwrGsEFLXxD3d9_XU7_sw1JChmtI-m_YS4C_5obj8p82IECy7-RVmS7rXLGC0OysnM9aEDcWVnW6XzSjOkVpg"
+        charset="UTF-8"></script>
+    <link rel="stylesheet" crossorigin="anonymous"
+        href="https://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9uYWR2aWxib2EuZ2l0aHViLmlvLzctNC0xLw" />
+</head>
+
+<body>
+    <header>
+        <img class="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNH4nwm8sWPKN8n9FGWaZt2LGiLBCgVboWAw&s">
+        <a class="button" href="">Знижки</a>
+    </header>
+    <nav>
+        <a class="nav-link" href="">Акорди</a>
+        <a class="nav-link" href="">Слова</a>
+        <a class="nav-link" href="">Виконавці</a>
+        <a class="nav-link" href="">Пісні</a>
+    </nav>
+    <main>
+        <h1>Інші види інструменів</h1>
+        <section class="info">
+            <article class="post">
+                <h2>Клавішні</h2>
+                <img class="post-img" src="https://showtechnica.com.ua/image/cache/catalog/foto_tovarov_showtechnica/yamaha-u1j-pe-1-600x600.jpg" width="400px" height="300px"/>
+                <p class="post-text">Піаніно</p>
+                <a class="article-but" href="">Детальніше</a>
+            </article>
+            <article class="post">
+                <h2>Духовні</h2>
+                <img class="post-img" src="https://muzikant.ua/wa-data/public/shop/products/12/48/44812/images/51780/51780.440@2x.jpg" width="330px" height="300px"/>
+                <p class="post-text">Тромбон</p>
+                <a class="article-but" href="">Детальніше</a>
+            </article>
+            <article class="post">
+                <h2>Електричні</h2>
+                <img class="post-img" src="https://muzikant.ua/wa-data/public/shop/products/31/38/3831/images/4565/4565.970.jpg" width="400px" height="300px"/>
+                <p class="post-text">Електро гітара</p>
+                <a class="article-but" href="">Детальніше</a>
+            </article>
+            <article class="post">
+                <h2>Ударні</h2>
+                <img class="post-img" src="https://komora.com/assets/images/classical_instruments/percussion/drum-kits/ludwig-drum-kit-classic-maple-l88204a-1.jpg" width="400px" height="300px"/>
+                <p class="post-text">Барабан</p>
+                <a class="article-but" href="">Детальніше</a>
+            </article>
+        </section>
+        <aside>
+            <p class="aside-text"><b>Напиши - отримай промокод!</b></p>
+            <a class="social"
+                href=""><img src="https://lms.logikaschool.com/uploads/2023/08/icon-set-1142000_1280%201_0_1613586391.png" width="50px" height="50px"></a>
+            <a class="social"
+                href=""><img src="https://lms.logikaschool.com/uploads/2023/08/instagram-3288419_1280%201_0_1613586391.png" width="50px" height="50px"></a>
+        </aside>
+        <img class="full-image" src=" https://erspattensen.de/wp-content/uploads/2023/03/1.-Bild-FB-Musik-1024x683.jpg" width="100%" min-height="200"/>
+    </main>
+    <footer>
+        <div class="contacts">
+            <p class="footer-text"><span class="address">Адреса:</span> місто Технологічне,<br/> пр-д Сучасний, 29/2</p>
+            <p class="footer-text"><span class="tel">Телефон:</span> 4138-564</p>
+        </div>
+        <div class="footer-logo">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNH4nwm8sWPKN8n9FGWaZt2LGiLBCgVboWAw&s"/>
+        </div>
+    </footer>
+</body>
+
+</html>
